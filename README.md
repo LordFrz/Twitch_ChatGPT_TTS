@@ -4,6 +4,7 @@ As its wildly out of date, its doubtful this works out of the box.
 
 You will need to create an app on twitch and get the app api key. Update the API keys inside the secrets_Keys.py
 Install everything in the requirements.txt
+- pip install -r /path/to/requirements.txt
 
 This has support for:
   - Twitch Chat reading and messaging

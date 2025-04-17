@@ -31,3 +31,6 @@ To run it, you would open a command line inside the folder everything is in. The
 you twitch login in. Once that was done you would be connected to your twitch chat. The bot would then start listening for chat messages.
 
 This was just a prototype to figure out how to have all the services and API talking to each other, so it was a hot mess of coding.
+
+Here is a video of me running it and explaining some stuff. This is my buddy's abandoned youtube channel so you wont get any response there if you have question, sorry.
+https://www.youtube.com/watch?v=dupNrakjm5s

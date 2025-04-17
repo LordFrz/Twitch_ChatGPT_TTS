@@ -27,4 +27,7 @@ So in this way you would be able to talk to a chatGPT bot via twitch chat.
 Thsi worked but had its issues. Such as the mp3 playing taking focus of the mouse out of whatever game I was playing. I did solve this, but I don't remember how, 
 as it was late at night after trying a bunch of stuff, and I didn't write it down >.<
 
+To run it, you would open a command line inside the folder everything is in. Then type "Python chatBot.py" This would then open you browser to have you verify
+you twitch login in. Once that was done you would be connected to your twitch chat. The bot would then start listening for chat messages.
+
 This was just a prototype to figure out how to have all the services and API talking to each other, so it was a hot mess of coding.
